@@ -1,0 +1,103 @@
+[19-Sep-2018 06:05:47 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/namastejico/account.namasteji.co.in/api/getstatus.php on line 1
+[19-Sep-2018 06:05:47 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/namastejico/account.namasteji.co.in/api/getstatus.php on line 1
+[19-Sep-2018 06:05:47 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/namastejico/account.namasteji.co.in/api/getstatus.php on line 1
+[19-Sep-2018 06:06:09 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/namastejico/account.namasteji.co.in/api/getstatus.php on line 1
+[19-Sep-2018 06:06:09 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/namastejico/account.namasteji.co.in/api/getstatus.php on line 1
+[19-Sep-2018 06:06:09 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/namastejico/account.namasteji.co.in/api/getstatus.php on line 1
+[19-Sep-2018 06:06:30 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/namastejico/account.namasteji.co.in/api/getstatus.php on line 1
+[19-Sep-2018 06:06:30 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/namastejico/account.namasteji.co.in/api/getstatus.php on line 1
+[19-Sep-2018 06:06:30 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/namastejico/account.namasteji.co.in/api/getstatus.php on line 1
+[19-Sep-2018 06:08:53 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/namastejico/account.namasteji.co.in/api/getstatus.php on line 1
+[19-Sep-2018 06:08:53 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/namastejico/account.namasteji.co.in/api/getstatus.php on line 1
+[19-Sep-2018 06:08:53 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/namastejico/account.namasteji.co.in/api/getstatus.php on line 1
+[19-Sep-2018 06:08:54 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/namastejico/account.namasteji.co.in/api/getstatus.php on line 1
+[19-Sep-2018 06:08:54 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/namastejico/account.namasteji.co.in/api/getstatus.php on line 1
+[19-Sep-2018 06:08:54 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/namastejico/account.namasteji.co.in/api/getstatus.php on line 1
+[19-Sep-2018 06:10:31 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/namastejico/account.namasteji.co.in/api/getstatus.php on line 1
+[19-Sep-2018 06:10:31 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/namastejico/account.namasteji.co.in/api/getstatus.php on line 1
+[19-Sep-2018 06:10:31 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/namastejico/account.namasteji.co.in/api/getstatus.php on line 1
+[19-Sep-2018 06:10:54 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/namastejico/account.namasteji.co.in/api/getstatus.php on line 1
+[19-Sep-2018 06:10:54 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/namastejico/account.namasteji.co.in/api/getstatus.php on line 1
+[19-Sep-2018 06:10:54 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/namastejico/account.namasteji.co.in/api/getstatus.php on line 1
+[19-Sep-2018 06:11:18 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/namastejico/account.namasteji.co.in/api/getstatus.php on line 1
+[19-Sep-2018 06:11:18 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/namastejico/account.namasteji.co.in/api/getstatus.php on line 1
+[19-Sep-2018 06:11:18 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/namastejico/account.namasteji.co.in/api/getstatus.php on line 1
+[19-Sep-2018 06:11:50 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/namastejico/account.namasteji.co.in/api/getstatus.php on line 1
+[19-Sep-2018 06:11:50 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/namastejico/account.namasteji.co.in/api/getstatus.php on line 1
+[19-Sep-2018 06:11:50 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/namastejico/account.namasteji.co.in/api/getstatus.php on line 1
+[19-Sep-2018 06:12:27 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/namastejico/account.namasteji.co.in/api/getstatus.php on line 1
+[19-Sep-2018 06:12:27 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/namastejico/account.namasteji.co.in/api/getstatus.php on line 1
+[19-Sep-2018 06:12:27 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/namastejico/account.namasteji.co.in/api/getstatus.php on line 1
+[19-Sep-2018 06:12:49 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/namastejico/account.namasteji.co.in/api/getstatus.php on line 1
+[19-Sep-2018 06:12:49 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/namastejico/account.namasteji.co.in/api/getstatus.php on line 1
+[19-Sep-2018 06:12:49 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/namastejico/account.namasteji.co.in/api/getstatus.php on line 1
+[19-Sep-2018 06:13:09 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/namastejico/account.namasteji.co.in/api/getstatus.php on line 1
+[19-Sep-2018 06:13:09 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/namastejico/account.namasteji.co.in/api/getstatus.php on line 1
+[19-Sep-2018 06:13:09 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/namastejico/account.namasteji.co.in/api/getstatus.php on line 1
+[19-Sep-2018 06:14:29 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/namastejico/account.namasteji.co.in/api/getstatus.php on line 1
+[19-Sep-2018 06:14:29 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/namastejico/account.namasteji.co.in/api/getstatus.php on line 1
+[19-Sep-2018 06:14:29 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/namastejico/account.namasteji.co.in/api/getstatus.php on line 1
+[19-Sep-2018 06:15:12 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/namastejico/account.namasteji.co.in/api/getstatus.php on line 1
+[19-Sep-2018 06:15:12 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/namastejico/account.namasteji.co.in/api/getstatus.php on line 1
+[19-Sep-2018 06:15:12 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/namastejico/account.namasteji.co.in/api/getstatus.php on line 1
+[19-Sep-2018 06:16:22 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/namastejico/account.namasteji.co.in/api/getstatus.php on line 1
+[19-Sep-2018 06:16:22 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/namastejico/account.namasteji.co.in/api/getstatus.php on line 1
+[19-Sep-2018 06:16:22 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/namastejico/account.namasteji.co.in/api/getstatus.php on line 1
+[19-Sep-2018 06:16:54 UTC] PHP Warning:  include(/config.php): failed to open stream: No such file or directory in /home/namastejico/account.namasteji.co.in/api/getstatus.php on line 1
+[19-Sep-2018 06:16:54 UTC] PHP Warning:  include(): Failed opening '/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/namastejico/account.namasteji.co.in/api/getstatus.php on line 1
+[19-Sep-2018 06:17:04 UTC] PHP Warning:  include(./config.php): failed to open stream: No such file or directory in /home/namastejico/account.namasteji.co.in/api/getstatus.php on line 1
+[19-Sep-2018 06:17:04 UTC] PHP Warning:  include(./config.php): failed to open stream: No such file or directory in /home/namastejico/account.namasteji.co.in/api/getstatus.php on line 1
+[19-Sep-2018 06:17:04 UTC] PHP Warning:  include(): Failed opening './config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/namastejico/account.namasteji.co.in/api/getstatus.php on line 1
+[25-Sep-2018 05:46:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/namastejico/account.namasteji.co.in/api/taskreg_api.php on line 12
+[25-Sep-2018 05:46:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/namastejico/account.namasteji.co.in/api/taskreg_api.php on line 28
+[25-Sep-2018 05:46:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/namastejico/account.namasteji.co.in/api/taskreg_api.php on line 45
+[25-Sep-2018 05:46:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/namastejico/account.namasteji.co.in/api/taskreg_api.php on line 12
+[25-Sep-2018 05:46:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/namastejico/account.namasteji.co.in/api/taskreg_api.php on line 28
+[25-Sep-2018 05:46:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/namastejico/account.namasteji.co.in/api/taskreg_api.php on line 45
+[25-Sep-2018 05:47:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/namastejico/account.namasteji.co.in/api/taskreg_api.php on line 12
+[25-Sep-2018 05:47:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/namastejico/account.namasteji.co.in/api/taskreg_api.php on line 28
+[25-Sep-2018 05:47:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/namastejico/account.namasteji.co.in/api/taskreg_api.php on line 45
+[25-Sep-2018 05:49:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/namastejico/account.namasteji.co.in/api/taskreg_api.php on line 12
+[25-Sep-2018 05:49:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/namastejico/account.namasteji.co.in/api/taskreg_api.php on line 28
+[25-Sep-2018 05:49:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/namastejico/account.namasteji.co.in/api/taskreg_api.php on line 45
+[25-Sep-2018 06:29:45 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/namastejico/account.namasteji.co.in/api/login_api.php on line 1
+[25-Sep-2018 06:29:45 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/namastejico/account.namasteji.co.in/api/login_api.php on line 1
+[25-Sep-2018 06:29:45 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/namastejico/account.namasteji.co.in/api/login_api.php on line 1
+[25-Sep-2018 06:35:05 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/namastejico/account.namasteji.co.in/api/login_api.php on line 1
+[25-Sep-2018 06:35:05 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/namastejico/account.namasteji.co.in/api/login_api.php on line 1
+[25-Sep-2018 06:35:05 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/namastejico/account.namasteji.co.in/api/login_api.php on line 1
+[25-Sep-2018 06:35:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/namastejico/account.namasteji.co.in/api/login_api.php on line 7
+[25-Sep-2018 06:35:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/namastejico/account.namasteji.co.in/api/login_api.php on line 8
+[25-Sep-2018 06:35:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/namastejico/account.namasteji.co.in/api/login_api.php on line 9
+[25-Sep-2018 06:35:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/namastejico/account.namasteji.co.in/api/login_api.php on line 26
+[25-Sep-2018 06:35:35 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/namastejico/account.namasteji.co.in/api/login_api.php on line 1
+[25-Sep-2018 06:35:35 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/namastejico/account.namasteji.co.in/api/login_api.php on line 1
+[25-Sep-2018 06:35:35 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/namastejico/account.namasteji.co.in/api/login_api.php on line 1
+[25-Sep-2018 06:35:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/namastejico/account.namasteji.co.in/api/login_api.php on line 7
+[25-Sep-2018 06:35:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/namastejico/account.namasteji.co.in/api/login_api.php on line 8
+[25-Sep-2018 06:35:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/namastejico/account.namasteji.co.in/api/login_api.php on line 9
+[25-Sep-2018 06:35:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/namastejico/account.namasteji.co.in/api/login_api.php on line 26
+[25-Sep-2018 06:35:47 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/namastejico/account.namasteji.co.in/api/login_api.php on line 1
+[25-Sep-2018 06:35:47 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/namastejico/account.namasteji.co.in/api/login_api.php on line 1
+[25-Sep-2018 06:35:47 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/namastejico/account.namasteji.co.in/api/login_api.php on line 1
+[25-Sep-2018 06:35:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/namastejico/account.namasteji.co.in/api/login_api.php on line 7
+[25-Sep-2018 06:35:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/namastejico/account.namasteji.co.in/api/login_api.php on line 8
+[25-Sep-2018 06:35:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/namastejico/account.namasteji.co.in/api/login_api.php on line 9
+[25-Sep-2018 06:35:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/namastejico/account.namasteji.co.in/api/login_api.php on line 26
+[25-Sep-2018 06:37:37 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/namastejico/account.namasteji.co.in/api/login_api.php on line 1
+[25-Sep-2018 06:37:37 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/namastejico/account.namasteji.co.in/api/login_api.php on line 1
+[25-Sep-2018 06:37:37 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/namastejico/account.namasteji.co.in/api/login_api.php on line 1
+[25-Sep-2018 06:37:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/namastejico/account.namasteji.co.in/api/login_api.php on line 7
+[25-Sep-2018 06:37:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/namastejico/account.namasteji.co.in/api/login_api.php on line 8
+[25-Sep-2018 06:37:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/namastejico/account.namasteji.co.in/api/login_api.php on line 9
+[25-Sep-2018 06:37:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/namastejico/account.namasteji.co.in/api/login_api.php on line 26
+[25-Sep-2018 06:40:50 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/namastejico/account.namasteji.co.in/api/login_api.php on line 1
+[25-Sep-2018 06:40:50 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/namastejico/account.namasteji.co.in/api/login_api.php on line 1
+[25-Sep-2018 06:40:50 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/namastejico/account.namasteji.co.in/api/login_api.php on line 1
+[25-Sep-2018 06:40:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/namastejico/account.namasteji.co.in/api/login_api.php on line 7
+[25-Sep-2018 06:40:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/namastejico/account.namasteji.co.in/api/login_api.php on line 8
+[25-Sep-2018 06:40:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/namastejico/account.namasteji.co.in/api/login_api.php on line 9
+[25-Sep-2018 06:40:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/namastejico/account.namasteji.co.in/api/login_api.php on line 26
+[20-Nov-2018 09:56:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/namastejico/account.namasteji.co.in/api/survey.php on line 54
+[20-Nov-2018 09:56:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/namastejico/account.namasteji.co.in/api/survey.php on line 54
+[20-Nov-2018 09:58:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/namastejico/account.namasteji.co.in/api/survey.php on line 54
